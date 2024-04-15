@@ -15,7 +15,6 @@ public class StandAloneTest extends BaseTest{
 
     @Test
     public void OrderProductEnd2EndTest() throws IOException {
-        // Demo comment
         String productName = "ADIDAS ORIGINAL";
         String country = "Austria";
         String confirmationMessage = "THANKYOU FOR THE ORDER."; 
