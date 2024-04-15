@@ -1,0 +1,8 @@
+hinteregger\AbstractComponents\AbstractComponent.class
+hinteregger\pageobjects\ProductCatalog.class
+hinteregger\pageobjects\PaymentForm.class
+hinteregger\pageobjects\LandingPage.class
+hinteregger\pageobjects\OrdersPage.class
+hinteregger\resources\ExtentReporterNG.class
+hinteregger\pageobjects\ShoppingCart.class
+hinteregger\pageobjects\ConfirmationPage.class

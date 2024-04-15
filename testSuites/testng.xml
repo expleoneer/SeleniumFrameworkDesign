@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+<listeners>
+  <listener class-name="hinteregger.TestComponents.Listeners"/>
+</listeners>
+
+  <test name="Submit Order Test">
+      <classes>
+        <class name="hinteregger.tests.SubmitOrderTest"/>
+      </classes>
+  </test>     
+  
+  <test name="Stand Alone Test">
+      <classes>
+        <class name="hinteregger.tests.StandAloneTest"/>
+      </classes>
+  </test>   
+</suite> 
